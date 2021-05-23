@@ -1,1 +1,1 @@
-# ML-For-Predicting-Maximum-Dispisplacemtn-of-TPB-Isolation-Systems
+# ML-For-Predicting-Maximum-Displacement-of-TPB-Isolation-Systems
