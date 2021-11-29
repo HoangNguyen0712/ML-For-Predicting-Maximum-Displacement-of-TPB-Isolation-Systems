@@ -1,6 +1,0 @@
-xgboost~=1.2.1
-numpy~=1.18.5
-PySimpleGUI
-matplotlib~=3.4.3
-pip~=20.2.3
-pickle~=4.0
